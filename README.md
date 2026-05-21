@@ -54,14 +54,13 @@
 
 ## ⚡ Fun Code
 
-java
+```java
 try {
     Brain.exe();
 }
-catch(SleepNotFoundException e){
-
+catch (SleepNotFoundException e) {
     System.out.println("🧠 Brain.exe has stopped working ⚠️💻");
     System.out.println("☕ Running on caffeine and confusion...");
     System.out.println("Error 404: Sleep Not Found 😴❌🔍");
-
 }
+```
