@@ -1,16 +1,70 @@
-## Hi there 👋
+# Hi 👋, I'm Natasha
 
-<!--
-**natashanizam/natashanizam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="350"/>
+</p>
 
-Here are some ideas to get you started:
+<h3 align="center">💻 CSE Student</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🎓 Studying Computer Science & Engineering
+- 🤖 Currently learning Machine Learning & AI
+- 💻 Love working with Python & Java
+- 📚 Exploring Data Science and Deep Learning
+- 🌱 Improving problem solving skills every day
+- ⚡ Interested in intelligent systems and real-world AI projects
+
+---
+
+## 🛠 Languages and Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,mysql,html,css,git,github,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=natashanizam&show_icons=true&theme=tokyonight" height="180em"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=natashanizam&layout=compact&theme=tokyonight" height="180em"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=natashanizam&theme=tokyonight&hide_border=false" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p>
+  <a href="https://github.com/natashanizam">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## ⚡ Fun Code
+
+java
+try {
+    Brain.exe();
+}
+catch(SleepNotFoundException e){
+
+    System.out.println("🧠 Brain.exe has stopped working ⚠️💻");
+    System.out.println("☕ Running on caffeine and confusion...");
+    System.out.println("Error 404: Sleep Not Found 😴❌🔍");
+
+}
