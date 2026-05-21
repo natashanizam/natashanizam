@@ -14,7 +14,6 @@
 - 🤖 Currently learning Machine Learning & AI
 - 💻 Love working with Python & Java
 - 📚 Exploring Data Science and Deep Learning
-- 🌱 Improving problem solving skills every day
 - ⚡ Interested in intelligent systems and real-world AI projects
 
 ---
@@ -30,9 +29,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=natashanizam&show_icons=true&theme=tokyonight" height="180em"/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=natashanizam&layout=compact&theme=tokyonight" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=natashanizam&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 ---
