@@ -12,7 +12,7 @@
 
 - 🎓 Studying Computer Science & Engineering
 - 🤖 Currently learning Machine Learning & AI
-- 💻 Love working with Python & Java
+- 💻 Love working with Python & C++
 - 📚 Exploring Data Science and Deep Learning
 - ⚡ Interested in intelligent systems and real-world AI projects
 
