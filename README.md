@@ -28,13 +28,6 @@
 
 
 
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=natashanizam&theme=tokyonight&hide_border=false" />
-</p>
-
----
 
 ## 🌐 Connect With Me
 
@@ -44,17 +37,4 @@
   </a>
 </p>
 
----
 
-## ⚡ Fun Code
-
-```java
-try {
-    Brain.exe();
-}
-catch (SleepNotFoundException e) {
-    System.out.println("🧠 Brain.exe has stopped working ⚠️💻");
-    System.out.println("☕ Running on caffeine and confusion...");
-    System.out.println("Error 404: Sleep Not Found 😴❌🔍");
-}
-```
